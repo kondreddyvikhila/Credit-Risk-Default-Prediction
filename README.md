@@ -66,19 +66,19 @@ https://github.com/kondreddyvikhila/Credit-Risk-Default-Prediction
 
 ### Streamlit Application
 
-<img src="images/shap_summary.png" width="700"/>
+<img src="images/streamlit_home.png" width="650"/>
 
 ### Credit Risk Prediction
 
-![Prediction Page](images/streamlit_prediction.png)
+<img src="images/streamlit_prediction.png" width="650"/>
 
 ### SHAP Explainability
 
-![SHAP Summary Plot](images/shap_summary.png)
+<img src="images/shap_summary.png" width="650"/>
 
 ### Model Evaluation
 
-![Confusion Matrix](images/confusion_matrix.png)
+<img src="images/confusion_matrix.png" width="650"/>
 
 ---
 
