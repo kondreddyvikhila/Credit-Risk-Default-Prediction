@@ -74,8 +74,7 @@ https://github.com/kondreddyvikhila/Credit-Risk-Default-Prediction
 
 ### Streamlit Application
 
-<img width="1908" height="1067" alt="Screenshot 2026-06-21 154551" src="https://github.com/user-attachments/assets/e789c0ec-c7ac-45f3-a951-449949b3cc41" />
-
+![Streamlit Dashboard](images/streamlit_home.png)
 
 ### Credit Risk Prediction
 
