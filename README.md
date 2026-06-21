@@ -55,14 +55,6 @@ https://github.com/kondreddyvikhila/Credit-Risk-Default-Prediction
 | XGBoost             | 93.6%    | 83.01%    | 85.5%  | 84.24%   | 98.28%  |
 | Tuned XGBoost       | 94.7%    | 85.51%    | 88.5%  | 86.98%   | 98.54%  |
 
-### Best Model
-
-**Tuned XGBoost**
-
-* Accuracy: 94.7%
-* ROC-AUC: 98.54%
-* Cross Validation Score: 99.64%
-
 ---
 ## Best Model Performance
 
@@ -74,7 +66,7 @@ https://github.com/kondreddyvikhila/Credit-Risk-Default-Prediction
 
 ### Streamlit Application
 
-![Streamlit Dashboard](images/streamlit_home.png)
+<img src="images/shap_summary.png" width="700"/>
 
 ### Credit Risk Prediction
 
@@ -90,14 +82,6 @@ https://github.com/kondreddyvikhila/Credit-Risk-Default-Prediction
 
 ---
 
-## Hyperparameter Tuning
-
-Best Parameters:
-
-learning_rate = 0.1
-max_depth = 5
-n_estimators = 200
-subsample = 0.8
 ## Hyperparameter Tuning
 
 Best Parameters:
