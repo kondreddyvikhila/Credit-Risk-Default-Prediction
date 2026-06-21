@@ -64,7 +64,41 @@ https://github.com/kondreddyvikhila/Credit-Risk-Default-Prediction
 * Cross Validation Score: 99.64%
 
 ---
+## Best Model Performance
 
+- Accuracy: 94.7%
+- ROC-AUC: 98.54%
+- Cross Validation Score: 99.64%
+
+## Visualizations
+
+### Streamlit Application
+
+<img width="1908" height="1067" alt="Screenshot 2026-06-21 154551" src="https://github.com/user-attachments/assets/e789c0ec-c7ac-45f3-a951-449949b3cc41" />
+
+
+### Credit Risk Prediction
+
+![Prediction Page](images/streamlit_prediction.png)
+
+### SHAP Explainability
+
+![SHAP Summary Plot](images/shap_summary.png)
+
+### Model Evaluation
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## Hyperparameter Tuning
+
+Best Parameters:
+
+learning_rate = 0.1
+max_depth = 5
+n_estimators = 200
+subsample = 0.8
 ## Hyperparameter Tuning
 
 Best Parameters:
