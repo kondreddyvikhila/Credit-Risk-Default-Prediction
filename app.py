@@ -76,8 +76,8 @@ m1, m2, m3, m4 = st.columns(4)
 
 m1.metric("📊 Dataset", "5000")
 m2.metric("🧠 Features", "40")
-m3.metric("🎯 Accuracy", "93.6%")
-m4.metric("📈 ROC-AUC", "98.3%")
+m3.metric("🎯 Accuracy", "94.7%")
+m4.metric("📈 ROC-AUC", "98.5%")
 
 st.divider()
 
@@ -287,12 +287,12 @@ with tab2:
 
     c1, c2, c3, c4 = st.columns(4)
 
-    c1.metric("Accuracy", "93.6%")
+    c1.metric("Accuracy", "94.7%")
     c2.metric("Precision", "83.0%")
     c3.metric("Recall", "85.5%")
     c4.metric("F1 Score", "84.2%")
 
-    st.metric("ROC-AUC", "98.3%")
+    st.metric("ROC-AUC", "98.5%")
 
     st.success(
         "XGBoost achieved the best performance among all tested models."
