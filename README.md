@@ -1,5 +1,5 @@
 # Credit Risk Default Prediction System
-
+Machine Learning-based Credit Risk Assessment using XGBoost, SHAP Explainability, and Streamlit Deployment.
 ## Project Overview
 
 This project develops a Machine Learning-based Credit Risk Default Prediction System to identify customers who are likely to default on loans. The system assists financial institutions in making informed lending decisions by analyzing customer credit-related information and predicting default risk.
